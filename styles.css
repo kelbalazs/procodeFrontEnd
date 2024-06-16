@@ -1,0 +1,4 @@
+.card-img-top {
+    height: 200px; /* Set a fixed height for the images */
+    object-fit: cover; /* Ensure the images cover the area */
+  }
